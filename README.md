@@ -15,3 +15,15 @@ Heroes Adobe Blog - https://blog.heroesadobe.com/news
 The first beta version of **Heroes Adobe** introduces a fully functional MMORPG foundation, including character progression up to level 100, a dual-currency system (Gold and Astralites), and a wide range of skills, professions, and equipment customization. Players can explore a location-based world map, complete quests, gather resources, craft items, engage in PvE and PvP combat, and develop their characters through both active and passive abilities.
 The game features a dynamic multiplayer environment with trading, messaging, leaderboards, territory control, and competitive systems such as contracts and rankings. Additional systems include dungeons, daily quests, real-time events, player-owned lands and plantations, economy interactions, and social mechanics like friends and marriage.
 The world is further enriched with weather effects, risky PvP zones, and real-time notifications, creating an evolving and interactive gameplay experience.
+
+## v1.0.1 — Beta Release (In progress)
+
+- Fixed multiple system bugs and improved overall stability  
+- Added persistent search filters in the Contracts system  
+- Added one-click health restoration in combat locations  
+- Introduced a new Risk Area for players level 31–45  
+- Added two basic crafting items to speed up Blacksmithing and Tailoring progression  
+- Improved gold update in the interface after PvP battles  
+- Rebalanced and simplified early quests (1–19)  
+- Adjusted prices for selected potions  
+- Introduced a dynamic difficulty system for Risk Areas
