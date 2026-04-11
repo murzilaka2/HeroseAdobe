@@ -27,3 +27,4 @@ The world is further enriched with weather effects, risky PvP zones, and real-ti
 - Rebalanced and simplified early quests (1–19)  
 - Adjusted prices for selected potions  
 - Introduced a dynamic difficulty system for Risk Areas
+- Prices for many items, both those purchased with gold and those purchased with souls, have been adjusted. 
