@@ -29,3 +29,4 @@ The world is further enriched with weather effects, risky PvP zones, and real-ti
 - Introduced a dynamic difficulty system for Risk Areas
 - Prices for many items, both those purchased with gold and those purchased with souls, have been adjusted.
 - A new location, the Citadel, has been added. It features 1v1 PvE battles where each new opponent is stronger than the previous one. The higher the floor, the greater the gold and experience rewards.
+- In the resource-gathering location, the ability to use potions of any type has been added, allowing players to gain effects and restore health.
