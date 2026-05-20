@@ -31,3 +31,8 @@ The world is further enriched with weather effects, risky PvP zones, and real-ti
 - A new location, the Citadel, has been added. It features 1v1 PvE battles where each new opponent is stronger than the previous one. The higher the floor, the greater the gold and experience rewards.
 - In the resource-gathering location, the ability to use potions of any type has been added, allowing players to gain effects and restore health.
 - Introducing the Caste System - a deep character specialization mechanic unlocked at Level 30. Every hero can now choose one of three unique progression paths, defining their ultimate role and influence within the world of Areldor.
+- Added the Farming system with a new Farmer skill progression path.
+- Added Farms and Plantations, allowing players to grow resources and develop agricultural production.
+- Introduced new potions with unique effects, expanding combat and gathering strategies.
+- Added advanced potion crafting through Alchemy, including stronger consumables for experienced players.
+- Improved visual effects and interface elements across multiple locations for a more immersive experience.
