@@ -36,3 +36,10 @@ The world is further enriched with weather effects, risky PvP zones, and real-ti
 - Introduced new potions with unique effects, expanding combat and gathering strategies.
 - Added advanced potion crafting through Alchemy, including stronger consumables for experienced players.
 - Improved visual effects and interface elements across multiple locations for a more immersive experience.
+- A large-scale expansion has been deployed to Heroes Adobe, introducing new endgame progression systems, dangerous world events, and major quality-of-life improvements across core gameplay mechanics.
+- A new tier of endgame equipment has been introduced, available exclusively for the Souls currency.
+- New high-threat regions have been discovered across Areldor, where demonic forces are actively expanding their influence.
+- The Trophy System has been significantly expanded to better reflect long-term player progression and mastery.
+- The farming system has evolved into a full-scale economic pillar of Heroes Adobe.
+- A new storage system has been introduced beneath The Old Kettle Tavern, allowing players to securely store valuable items and manage inventory overflow.
+- Several major combat balance changes have been implemented to improve fairness and pacing:
