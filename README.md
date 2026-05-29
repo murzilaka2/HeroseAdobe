@@ -42,4 +42,5 @@ The world is further enriched with weather effects, risky PvP zones, and real-ti
 - The Trophy System has been significantly expanded to better reflect long-term player progression and mastery.
 - The farming system has evolved into a full-scale economic pillar of Heroes Adobe.
 - A new storage system has been introduced beneath The Old Kettle Tavern, allowing players to securely store valuable items and manage inventory overflow.
-- Several major combat balance changes have been implemented to improve fairness and pacing:
+- Several major combat balance changes have been implemented to improve fairness and pacing.
+- Implemented Player referral system with rewards.
