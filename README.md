@@ -45,3 +45,4 @@ The world is further enriched with weather effects, risky PvP zones, and real-ti
 - Several major combat balance changes have been implemented to improve fairness and pacing.
 - Implemented Player referral system with rewards.
 - Heroes can now choose a profession starting at level 10, unlocking a new long-term progression path alongside combat and exploration. Each profession features an 8-level career ladder, rewarding players with gold, profession experience, crafting materials, equipment, and rare discoveries after completing work shifts. Every profession has unique skill requirements, progression bonuses, and a powerful mastery ability, making each career choice meaningful and shaping the future of your hero.
+- Implemented a new frame system, allowing players to equip unique borders for their character portraits.
