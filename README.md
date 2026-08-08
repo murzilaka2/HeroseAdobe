@@ -46,3 +46,12 @@ The world is further enriched with weather effects, risky PvP zones, and real-ti
 - Implemented Player referral system with rewards.
 - Heroes can now choose a profession starting at level 10, unlocking a new long-term progression path alongside combat and exploration. Each profession features an 8-level career ladder, rewarding players with gold, profession experience, crafting materials, equipment, and rare discoveries after completing work shifts. Every profession has unique skill requirements, progression bonuses, and a powerful mastery ability, making each career choice meaningful and shaping the future of your hero.
 - Implemented a new frame system, allowing players to equip unique borders for their character portraits.
+- Introduced the Guild System, allowing players to join forces, build powerful communities, and progress together.
+- Added Guild Buildings, providing unique bonuses, new features, and long-term progression opportunities for guild members.
+- Introduced Guild Quests, giving guilds daily objectives and rewarding them with valuable resources and progression rewards.
+- Added Guild Wars, allowing rival guilds to declare war and compete for glory, resources, and dominance across Areldor.
+- Introduced War Tokens, a new strategic resource required to initiate guild wars and earned through completing guild activities.
+- Added Guild Chat, providing members with a dedicated space to communicate, coordinate activities, and plan their next moves.
+- Added Guild Announcements, allowing guild leaders to share important information and coordinate their members.
+- Introduced Guild Management tools, including member recruitment, applications, leadership transfer, member removal, and guild administration.
+- Added Guild progression and leveling, allowing guilds to grow stronger and unlock new opportunities through their buildings and activities.
