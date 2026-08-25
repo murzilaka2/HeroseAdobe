@@ -55,3 +55,4 @@ The world is further enriched with weather effects, risky PvP zones, and real-ti
 - Added Guild Announcements, allowing guild leaders to share important information and coordinate their members.
 - Introduced Guild Management tools, including member recruitment, applications, leadership transfer, member removal, and guild administration.
 - Added Guild progression and leveling, allowing guilds to grow stronger and unlock new opportunities through their buildings and activities.
+- A Reputation and Quest system has been added. The hero can complete various quests that affect his reputation. Reputation influences the surrounding world and the events that take place within it.
