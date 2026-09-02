@@ -16,7 +16,7 @@ The first beta version of **Heroes Adobe** introduces a fully functional MMORPG 
 The game features a dynamic multiplayer environment with trading, messaging, leaderboards, territory control, and competitive systems such as contracts and rankings. Additional systems include dungeons, daily quests, real-time events, player-owned lands and plantations, economy interactions, and social mechanics like friends and marriage.
 The world is further enriched with weather effects, risky PvP zones, and real-time notifications, creating an evolving and interactive gameplay experience.
 
-## v1.0.1 — Beta Release (In progress)
+## v1.0.1 — Beta Release
 
 - Fixed multiple system bugs and improved overall stability  
 - Added persistent search filters in the Contracts system  
@@ -56,3 +56,9 @@ The world is further enriched with weather effects, risky PvP zones, and real-ti
 - Introduced Guild Management tools, including member recruitment, applications, leadership transfer, member removal, and guild administration.
 - Added Guild progression and leveling, allowing guilds to grow stronger and unlock new opportunities through their buildings and activities.
 - A Reputation and Quest system has been added. The hero can complete various quests that affect his reputation. Reputation influences the surrounding world and the events that take place within it.
+
+## Heroes Adobe — v1.0.0 Release
+
+Welcome to Areldor
+After a long journey of development and testing, Heroes Adobe officially launches with version 1.0.0.
+Heroes Adobe is a browser-based text MMORPG set in the fantasy world of Areldor, where every hero can forge their own path. Explore a dangerous and evolving world, fight monsters and other players, master professions, build your fortune, join guilds, control territories, and shape your reputation through your actions.
