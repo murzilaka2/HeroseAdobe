@@ -57,7 +57,7 @@ The world is further enriched with weather effects, risky PvP zones, and real-ti
 - Added Guild progression and leveling, allowing guilds to grow stronger and unlock new opportunities through their buildings and activities.
 - A Reputation and Quest system has been added. The hero can complete various quests that affect his reputation. Reputation influences the surrounding world and the events that take place within it.
 
-## Heroes Adobe — v1.0.0 Release
+## Heroes Adobe - v1.0.0 Release
 
 Welcome to Areldor
 After a long journey of development and testing, Heroes Adobe officially launches with version 1.0.0.
