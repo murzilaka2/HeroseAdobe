@@ -62,3 +62,5 @@ The world is further enriched with weather effects, risky PvP zones, and real-ti
 Welcome to Areldor
 After a long journey of development and testing, Heroes Adobe officially launches with version 1.0.0.
 Heroes Adobe is a browser-based text MMORPG set in the fantasy world of Areldor, where every hero can forge their own path. Explore a dangerous and evolving world, fight monsters and other players, master professions, build your fortune, join guilds, control territories, and shape your reputation through your actions.
+
+- Once a day for a level-scaled gold fee, step into the Sanctuary to support the wounded and receive a random item from ancient temple vaults as a token of the monks' gratitude.
